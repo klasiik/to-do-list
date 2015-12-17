@@ -1,4 +1,4 @@
-var framework = function(){
+/*var framework = function(){
 	return{
 		create: function(element){
 			var elo = document.createElement(element);
@@ -23,5 +23,4 @@ var addNewItemUpcoming = function(){
 			var newItemDiv = document.createElement("li");
 			listUpcoming.appendChild(newItemDiv);
 			newItemDiv.innerHTML = newItemInput.value;
-		};
-
+		}; */
